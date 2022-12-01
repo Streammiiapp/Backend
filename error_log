@@ -1,0 +1,13 @@
+[06-Oct-2021 06:08:35 UTC] PHP Warning:  Module 'iconv' already loaded in Unknown on line 0
+[06-Oct-2021 06:17:12 UTC] PHP Warning:  Module 'iconv' already loaded in Unknown on line 0
+[06-Oct-2021 06:17:27 UTC] PHP Warning:  Module 'iconv' already loaded in Unknown on line 0
+[06-Oct-2021 07:36:41 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/dev/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[06-Oct-2021 07:39:20 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/dev/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[06-Oct-2021 07:40:24 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/dev/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+<<<<<<< HEAD
+[26-Nov-2021 13:33:49 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/qa/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[29-Nov-2021 12:24:35 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/qa/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+=======
+[30-Nov-2021 08:34:34 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/dev/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[30-Nov-2021 08:42:24 UTC] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/retrocubedev/public_html/dev/stream_mii/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+>>>>>>> c7ca8553d5fede01ae23472714c79f2fe6cb12ca
